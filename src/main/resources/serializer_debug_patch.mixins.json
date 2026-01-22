@@ -1,0 +1,16 @@
+{
+  "minVersion": "0.8",
+  "required": true,
+  "compatibilityLevel": "JAVA_17",
+  "refmap": "serializer_debug_patch.refmap.json",
+  "package": "com.dairymoose.sdpatch.mixins",
+  "priority": 1001,
+  "client": [
+    "EntityDataSerializersPatchMixin"
+  ],
+  "mixins": [
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}
