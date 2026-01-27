@@ -1,6 +1,6 @@
 # SerializerDebug Patch
 
-A Mixin patch for [SerializerDebug](https://github.com/dairymoose/SerializerDebug) that fixes EntityDataSerializer remapping issues. Temporary fix until PR gets accepted by original mod author.
+A Mixin patch for [SerializerDebug](https://github.com/dairymoose/Serializer_Debug) that fixes EntityDataSerializer remapping issues. Temporary fix until PR gets accepted by original mod author.
 
 ## The Problem
 
